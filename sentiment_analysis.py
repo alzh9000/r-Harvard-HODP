@@ -92,20 +92,6 @@ fig.add_trace(go.Scatter(
     mode='markers',
     marker_color=primary_colors[2],
 ))
-# fig.add_trace(go.Scatter(
-#     x=rep_df['year'],
-#     y=rep_df['candidatevotes'],
-#     name='republican',
-#     mode='lines+markers',
-#     marker_color=primary_colors[0],
-# ))
-# fig.add_trace(go.Scatter(
-#     x=other_df['year'],
-#     y=other_df['candidatevotes'],
-#     name='others',
-#     mode='lines+markers',
-#     marker_color=primary_colors[1],
-# ))
 
 
 fig.update_layout(title="Sentiment Analysis",
