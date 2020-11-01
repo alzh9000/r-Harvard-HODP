@@ -12,7 +12,9 @@ import plotly.io as pio
 from plotly.subplots import make_subplots
 nltk.download('punkt')
 
-college = "princeton"
+college = "yale"
+college_color_1 = '#0f4d92'
+college_color_2 = 'Black'
 
 
 def resource_path(relative_path):
@@ -22,6 +24,10 @@ def resource_path(relative_path):
         base_path = os.path.dirname(__file__)
     return os.path.join(base_path, relative_path)
 
+
+num_rows = 0
+total_polarity = 0
+total_subjectivity = 0
 
 polarities = []
 subjectivities = []
@@ -33,13 +39,19 @@ with open(resource_path(college + "_comments_final.csv"), 'r', encoding="utf8") 
             blob = TextBlob(sentence)
             polarities.append(blob.sentiment.polarity)
             subjectivities.append(blob.sentiment.subjectivity)
+            num_rows += 1
+            total_polarity += blob.sentiment.polarity
+            total_subjectivity += blob.sentiment.subjectivity
             # print(blob.word_counts)
             # print(sentence)
             # print(blob.sentiment.polarity, blob.sentiment.subjectivity)
         except:
             # print("This line is blank.")
             pass
-
+print("Average Polarity for " + college.upper() +
+      ": " + str(total_polarity/num_rows))
+print("Average Subjectivity for " + college.upper() +
+      ": " + str(total_subjectivity/num_rows))
 
 # colors
 monochrome_colors = ['#251616', '#760000', '#C63F3F', '#E28073', '#F1D3CF']
@@ -94,10 +106,10 @@ fig.add_trace(go.Scatter(
     y=polarities,
     mode='markers',
     marker=dict(
-        color='Orange',
+        color=college_color_1,
         size=15,
         line=dict(
-            color='Black',
+            color=college_color_2,
             width=2
         )
     )
