@@ -28,5 +28,6 @@ for school_name in school_names:
 
         csv_name = school_name + '_' + file_type + '_final.csv'
         harvard_posts.to_csv(csv_name)
-        print(school_name.upper(), num_mentions)
-        print(school_name.upper(), num_mentions_total)
+        print(school_name.upper(), file_type, "#COMMENTS", num_mentions)
+        print(school_name.upper(), file_type,
+              "#MENTIONS TOTAL", num_mentions_total)
