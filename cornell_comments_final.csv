@@ -1,1404 +1,185 @@
-,body,timestamp
-0,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-1,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-2,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-3,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-4,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-5,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-6,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-7,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-8,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-9,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-10,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-11,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-12,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-13,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-14,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-15,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-16,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-17,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-18,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-19,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-20,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-21,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-22,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-23,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-24,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-25,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-26,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-27,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-28,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-29,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-30,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-31,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-32,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-33,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-34,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-35,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-36,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-37,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-38,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-39,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-40,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-41,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-42,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-43,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-44,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-45,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-46,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-47,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-48,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-49,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-50,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-51,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-52,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-53,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-54,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-55,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-56,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-57,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-58,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-59,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
-60,"0                         Someone give this man mod status
-1                                                   legend
-2        Thank Christ I graduated, this sounds miserabl...
-3        Tysm for the tldr\nI wasn't ready to read 97 p...
-4        lol my lack of reading comprehension could nev...
-                               ...                        
-17512                                Loud her praises tell
-17513                         Hail to thee, our Alma mater
-17514                                Hail, oh hail Cornell
-17515    “Engineer stuck in a humanities class” reacts ...
-17516              Only real engineers play coolmathgames 
-Name: body, Length: 17517, dtype: object","0        2020-06-22 11:58:14
-1        2020-06-22 11:46:35
-2        2020-06-22 13:51:58
-3        2020-06-22 12:25:56
-4        2020-06-22 12:07:19
-                ...         
-17512    2019-05-27 08:37:42
-17513    2019-05-27 09:38:18
-17514    2019-05-27 10:01:25
-17515    2019-01-22 22:02:38
-17516    2019-01-22 22:43:08
-Name: timestamp, Length: 17517, dtype: object"
+,body
+0,"lmao at least you've got a place at harvard.
+
+btw where can i get chapter 2 ;)"
+1,someone get this on the harvard reddit
+2,"it doesn’t get better for a lot after they become doctors too. my friend teaches health economics at the public health school at harvard. it’s filled with mds and during office hours it’s all about “can you just tell me the equation so i can memorize it”, rather than understanding the concepts."
+3,probably because of how many pre-meds are chilling sociopaths ready to grind anyone into the earth that gets in the way of their harvard med spot :p
+4," come to the women's games for *free* playoff hockey featuring the near-unanimous best team in the country!
+
+**no. 8 st. lawrence at no. 1 (1) cornell**
+
+friday, february 28 - 3 p.m.
+
+saturday, february 29 - 3 p.m.
+
+sunday, march 1 (if necessary) - 3 p.m.
+
+&#x200b;
+
+or come watch the hotly-disputed best men's team in the country (north dakota is a lil salty right now)! on friday we do our best to thank st. lawrence for upsetting harvard 6-3, and on saturday we either win the regular season title outright, or collapse and let clarkson ruin our season like last year!
+
+**st. lawrence at (1) cornell**
+
+friday, february 28 - 7 p.m.
+
+**(7) clarkson at (1) cornell**
+
+saturday, february 29 - 7 p.m.
+
+&#x200b;
+
+it should also be said that neither team has lost a game at home this season. lynah remains undefeated. come help keep it that way!"
+5,as a dyson student i hate when people mention our acceptance rate (like jz said its even more competitive than harvard or whatever) but its just so embarrassing  like if we rly were that cool u dont have to use the appeal to authority approach (in this case harvard). which actually makes the argument dumber💀
+6,"yes! i love cornell so much and it’s kind of embarrassing how she has to qualify her acceptance by saying it’s more “prestigious” than harvard. being so obsessed with rankings just seems so petty, especially *after* being admitted to the school"
+7,pretty sure this is just a joke about how cornell doesn’t want to do anything that harvard does because harvard sucks
+8,"harvard is doing this badly. hopefully, cornell will allow students to stay on campus and complete classes. i think that’s what most people want"
+9,"that sucks, harvard is insanely rich though maybe they’ll work something out with those students"
+10,this post is refers to harvard closing campus. students have until march 15th to leave campus. that is too early to afford for many students.
+11,students can stay at harvard if they don't leave for spring break
+12,"because moving to online classes would be very bad for many people i know, and in the case of harvard students are being abruptly sent home without financial assistance"
+13,"same. i can’t have a single coherent thought and i spent my entire day yesterday packing my room because it was weirdly calming. my friend has a prelim today and she’s just been alternating between crying and studying. i think that cornell shouldn’t have done harvard’s “get out in five days” thing, but professors shouldn’t hold us on campus for the next two weeks with prelims and papers and classes. they should have just cancelled all classes effective immediately, and let people use the next two weeks to leave as they need to and figure out what to do. having to do this at the same time as prelims is ridiculous."
+14,"every school taps a small percentage of its endowment every year. (i.e. https://www.harvard.edu/about-harvard/harvard-glance/endowment). i'd be surprised if cornell does not. 
+
+the problem is that the university can't spend all of it - it's been budgeted in as a fixed source of income for the next x years, where x is how long cornell will continue to exist. 
+
+if you destroy the endowment by spending half of it on a covid19, the school is essentially selling its future for the present."
+15,"lol, although i heard princeton was harder than harvard (shocking huh?)"
+16,and now harvard
+17,"essentially cornell will back harvard and mit, they won’t be a party suing ice but they will provide the court with their own expertise and opinion on why ice is fucking stupid"
+18,"cornell could certainly file their own action to seek judicial review of agency action in any federal court. that is how i read the administrative procedure act. the matter would probably be consolidated into the harvard/mit suit for efficiency. cornell could file an action with the same court despite being located in ny. 
+
+harvard and mit could move the court to add cornell under the permissive joinder rule, but i think we may get to a point where there are too many cooks in the kitchen. harvard and mit can lead the legal challenge. schools that have a vested interest in protecting their international students can and will file amicus briefs as a “friend of the court,” instilling upon the court how arbitrary and capricious the ice proposal is. cornell is definitely doing their part without bogging down the process for reversal."
+19,"thanks for the clarification, y’all! it’s more or less what i figured. i wonder why cornell didn’t join harvard and mit and sue over the new ice policy..."
+20,"i've picked out relevant information from [this link](https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus) below:
+
+>we also don't yet know at what point during the course of illness a test becomes positive.  
+>  
+>  
+>  
+>if you get the nasal/throat swab or saliva test, you will get a false negative test result:  
+>  
+>100% of the time on the day you are exposed to the virus. (there are  so few viral particles in your nose or saliva so soon after infection  that the test cannot detect them.)  
+>  
+>about 40% of the time if you are tested four days after exposure to the virus.  
+>  
+>about 20% of the time if you develop symptoms and are tested three days after those symptoms started.  
+>  
+>this possibility of a false negative test result is why anyone who  has symptoms that could be due to covid-19, or has been exposed to  someone known to be infected, must isolate even if they test negative  for coronavirus.  
+>  
+>  
+>  
+>the time from exposure to symptom onset (known as the incubation  period) is thought to be three to 14 days, though symptoms typically  appear within four or five days after exposure.  
+>  
+>we know that a person with covid-19 may be contagious 48 to 72 hours before starting to experience symptoms. 
+
+the idea behind mandatory quarantine for hotspot states is that living in and interacting with communities in these areas puts you at increased risk at contracting the virus (significantly higher, according to public health experts, than briefly traveling through these areas or living in areas with lower #s of infections). you may become infected in a hotspot area just from going to public stores, socializing with friends and family who are infected, or being near larger crowds of people outdoors.
+
+because we don't know when an infected person starts to test positive, it is safest to assume that they may test negative at any point through when they either (a) start showing symptoms or (b) become non-contagious. we *do* know that, if an infected person will show symptoms, it will be at most 14 days after exposure. therefore, the most conservative approach is to wait until 14 days after the last possible exposure to see if symptoms develop, regardless of whether you test negative before or during this period. 
+
+to put it bluntly, you could test negative every day before leaving a hotspot area and test negative each day after arriving at cornell for up to 14 days and still be infected with symptoms at the end of the 14 days.
+
+i agree that anyone traveling through airports, even if the origin is a non-hotspot area, is at risk of coming into contact with infected individuals (who are most likely from hotspot areas). it would be safest to also require quarantines for anyone who has recently traveled through a large airport. however, i'm not a public health expert and it appears that the experts who advise the ny state government believe that this risk is significantly less than the risk of people who originate in hotspot areas.
+
+based on the guidance of public health experts, i'd argue that the mandated tests are the part of this process that is overkill and that the mandatory quarantine is appropriate."
+21,"i'm calling it right fucking now, as soon as there is a confirmed case in ithaca city/ tompkins county - they will give us the gtfo in 5 days deadline like harvard did. rumor is that multiple harvard students are presumptive positives under quarantine - that's why they did it. 
+
+there is a difference between 0 cases and 1 case. and the difference is that the one case doubles every 2-4 days. this is what it feels like to be at the mercy of an exponential function."
+22,harvard has fans?
+23,"i mean i added that the 4 year housing isn't the fault of this administration. in fact, they've even been adding dorms, obviously. 
+
+&#x200b;
+
+idk how this will affect housing costs. let's see before complaining first. 
+
+&#x200b;
+
+cornell's plan is straight up better than harvard's lol. if you don't think it'll work you can choose to stay home. and if you do, you can go. there's no advantages harvard has that cornell doesn't. they just made the choice for everyone, which is even worse imo. 
+
+&#x200b;
+
+in this specific instance yea, i guess contact tracing would be nice, but that's mit, come on. look at the other ivies who are more aligned with our values."
+24,"you'd be surprised. it's easy to imagine the endowment as free money, but if you drain it today, the university has no income tomorrow --- not ideal for an institution that hopes to last many more years. the endowment is expected to pay for a large chunk of expenses - especially salaries - not only this year, but for the indefinite future.
+
+also, research and faculty cost a lot. 
+
+that said, the way cornell spends money should receive more attention. a book i would recommend is ""tuition rising"" by ehrenberg, a former cornell administrator - they go in incredible depth on the inner workings and nuances of ivy league finance. the tldr; is that in order to stay competitive, the top universities are engaged in a facilities/faculty/administrative arms race, which costs more and more money, and there's no lack of students who will pay (yet). (of course, tuition is not the primary source of income. harvard's financial picture is illustrative of this: https://finance.harvard.edu/files/fad/files/harvard_financialreport_fy15.pdf)"
+25,i kinda wish we had harvard's grade inflation
+26,if harvard didn't have grade inflation nobody would wanna go cuz harvard bad
+27,all i’m seeing is that harvard fails to differentiate itself from the rest of  these universities overrun by elitist hacks while cornell is at the forefront of a virginal sexual revolution. this essentially makes cornell the top ivy. 
+28,"fuck harvard
+
+buncha dweebs"
+29,"i think cornell should have done 100% online and allow students with special circumstances to dorm, like harvard
+
+or they should have done in dorm quarantine with food delivery"
+30,"based on the scientific projections outlined in the recent harvard study, intermittent social distancing may be necessary until 2022! the only way that it will be safe to really have a functioning campus, would be for testing to reach appropriate levels in the us (which...is such a disaster right now), and then for the population to reach the appropriate level of vaccination/immunity—which again is going to take some serious testing, and we haven't even started to reach levels near that, either the immunity or the testing needed to confirm any immunity, as you probably all know. the only way that people might be able to come back to ithaca would be with some sort of proof-of-immunity clearance from a doctor. but those people are a minority—those who have had exposure and immunity, and the antibody tests aren't even really figured out yet, nor are they very available. (federal non-coordination is really affecting all of this, obviously). since the vaccine is not going to be ready and widely available for a while—until 2022, most likely—that means, as far as i can tell, that unless one of the outcomes in the harvard study proves true (that people after exposure have lifelong immunity), then we are going to have to wait until the ""herd immunity"" moment: whether that's people getting immunity through exposure (ie. having covid19, whether one has symptoms or not) or through the vaccine. and then one has to have the proof of immunity/vaccine to come back to campus.  
+
+there is no other safe way to reopen campus without risking a very dumb situation like what is potentially going down in georgia and other states that are reopening against the scientific evidence and advice. i read martha's pointing out the ""risk"" factor as pointing out the obvious; and it doesn't really communicate anything else about plans. maybe some more people who are essential or doing essential lab studies (these researchers are already on campus, i believe), and can get tested and can appropriately and safely come to campus. but all the undergraduate students? how? this is a historic moment and we are still only coming to terms with just how long this period of time is going to be. it's really sad for the undergrads who are going to miss out on these years and this experience for at least the next year and a half. 
+
+i can only foresee, if the vaccine is really widely available by spring 2022, that fall 2022 will be the grand reopening of campus. though not back to normal, since some coronavirus will be with us every winter forever—but in much smaller numbers, and with better treatments, and more chances with annual vaccines. i'm trying to be as scientific as possible‚ if any science people see flaws i'd love to know. sorry to really debby downer but i'm just trying to figure it all out, too.
+
+[https://science.sciencemag.org/content/early/2020/04/14/science.abb5793](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)"
+31,"the response will likely be coordinated but not necessarily the same. different locations necessitate different responses. idt columbia and harvard, both in heavily affected cities, can reopen as easily as dartmouth and brown."
+32,"first no aep major, then they have an [ab (not bs)](https://www.seas.harvard.edu/electrical-engineering) in ece, then this...
+
+i wonder if they’ll proctor home bathrooms over zoom now."
+33,"another great look for harvard university, at this point might even be an average look"
+34,"up to [40%](https://news.harvard.edu/gazette/story/2020/07/harvard-to-bring-up-to-40-of-undergrads-to-campus-this-fall/) of undergrads will be on campus, tho..."
+35,"imagine paying as much as you do for your cornell degree and being treated like dogshit by administration. harvard’s plan at least respects everyone’s intelligence—ie, in-person classes are just a horrible idea and we all know it."
+36,"if i believe harvard has always been greedy and overcharges ppl for a piece of paper and a name, then i believe the same abt its peer institutions...like cornell lol"
+37,"in all seriousness, i hope everyone at harvard gets better.
+
+they don’t have to worry about their grades so they can focus everything on recovering."
+38,harvard sucks
+39,"way to go, red!  harvard...... sucks!"
+40,"just drop out, now. harvard will understand."
+41,"you’re screwed harvard only accepts perfection. if they find out you asked for help on reddit, it’s all over"
+42,:o that seems too bad. i would never get into harvard med with that on my transcript. realistic suggestions only please.
+43,"yes and no. i agree that the jobs crisis in academia means that you have harvard grads working for bumfuck u (in fact, i'd argue that ivy leagues don't even get the most qualified candidates because the old boys network is so strong - if you don't believe me, look at the slim resumes of some recent hires, who have clearly networked their way into the job).
+
+but you're wrong about student services: they don't take up much of the university budget (and some of the programs you mention, like the alumni network and study abroad,are actually huge cash cows for the university). same goes with ""qualify of life things"" (and if you think ivies have a better quality of life you have clearly not seen the gym/dorms at columbia, which are on a par with penn station).
+
+most of the budget is going to stuff like top admin salaries, undisclosed travel costs for admins, outside consultants, and ""other expenses"" (private universities don't have to report everything - at nyu these ""other expenses"" comprised the dean's house renovation in the hamptons!). this article gives an interesting breakdown of the colgate budget: [https://www.forbes.com/sites/nathanlewis/2017/02/17/u-s-colleges-where-does-the-money-go/#5726a38e73ca](https://www.forbes.com/sites/nathanlewis/2017/02/17/u-s-colleges-where-does-the-money-go/#5726a38e73ca)"
+44,"when i refer to ""fragility"", i'm referring to what some would call ""intestinal fortitude"", or ""thick skin"". the ability to shake things off and not be easily rattled by a\*\*holes. here's an example. a few years ago some idiots formed a swastika on the ground in the snow with their feet, and the whole campus damn near had a heart attack i.e. ""something needs to be done!"", ""we don't feel safe!"", ""there needs to be an investigation"", etc......... twenty-five years ago, you know what would have happened? people would have looked at it, thought to themselves, ""well look at that. it seems there are some a\*\*holes in our midst, and then erased it."" a common reply at this point might be, ""well, that was a different time, and you didn't have a racist as president who is encouraging these idiots."" while this may be true, i still don't think there has been a marked increase in the number of ""nazis"" in the country, but rather, the existing few and far between have been encouraged; the vast majority of people are repulsed by the idea of nazism/hitler/etc....
+
+it's interesting that the article you link to talks a lot about the haidt/lukionoff article that i had in mind (if you haven't read it, i highly suggest it. both of them are reputable researchers who are well respected in their field). one of the main points of the author of the article you linked, is the lack of evidence that things like trigger warnings contribute to fragility. interestingly enough, recent studies have found that trigger warnings are useless, and even harmful.
+
+[here](https://www.psychologytoday.com/us/blog/happiness-and-the-pursuit-leadership/201808/harvard-study-trigger-warnings-might-coddle-the) and [here](https://reason.com/2019/07/14/trigger-warnings-useless-harmful-study/#).
+
+i was on a college campus 25 years ago, and i was again on one recently for a few years, and in my experience, there is a noticeable difference. i attribute a lot of this to social media and mobile devices (see sherry turkle from mit). i'm not saying this as a way to claim that my generation is somehow better; we're not. it's just an observation based on having spent significant time on college campuses two and a half decades apart."
+45,i think we should’ve done what harvard is doing—all classes online but certain students in special circumstances returned back on campus to have the resources to be successful online.
+46,"update: she has been deleting comments criticizing her on tik tok and blocking people. she deleted the comments exposing her for lying about the screenshot ( she first said it was photoshopped and then changed her story to that it was taken out of context). she had also been liking comments defending her actions, such as:
+
+
+“ honestly you helped me so much you don’t deserve the hate”
+
+“ 12 people tested negative”
+
+“ don’t listen to them i love your content” 
+
+“ good job girlie! keep standing up for yourself” 
+
+“y’all act like u have never made a mistake. u thought it was fine at the time, and u realized it wasn’t. u r fine girl.”
+
+she’s not apologetic, she’s just trying to preserve image and thinks she is the victim. a lot of comments are bringing up a video she made, complaining about affirmative action and that affirmative action was the only reason she got rejected at harvard. i’m trying to get the video to confirm this. 
+
+keep in mind that she applied to 8 ivies but got only into cornell. yet, she gives advice as if she knows everything about college admission and acts so pretentious. there are rumors from people from her hs that she cheated on her sat and her parents called college board demanding to let her retake it. i’m trying to find more solid evidence for this as well."
+47,"the reality though is cornell would not be a top 20 school if it were more cushy. everyone who attends cornell knows the horror stories of how difficult it is. it's not a surprise. if you want a lifestyle school you either need to get much better grades to get into brown or harvard or you just need to accept binghamton as a cakewalk safety school.
+
+i'm not saying its right, but you know the choice you're making before you arrive."
+48,right?  we stayed on the same floor as harvard and we traveled with some big boys (4 over 450).  so we would like to say we played a part of the intimidation factor.
+49,"i don't know how much of a hockey fan you are, but if you want to get the full cornell sports experience, you should come to a home hockey game sometime! the atmosphere at lynah rink can be *insane*, especially during the harvard game (one of the oldest rivalries in college hockey)."
+50,"i was inline with harvard's net for that shot, it unfortunately didn't go in"
+51,pics or you went to harvard.
+52,"screw bu, harvard too!"
+53,"hate to say it, but i respect harvard and the likes for taking the stand to go online. good luck to you crazy bastards diving balls first into this clusterfuck of a semester."
+54,did you mean to post this on r/harvard?
+55,ha suck it harvard
+56,"yeah, harvard is not even in ithaca. smh"
+57,"let's try to look on the bright side of things.  today was not the worst loss in the program's history.  on november 1, 1890, harvard beat cornell by a more lopsided score of 77-0."
+58,https://www.reddit.com/r/cornell/comments/fu0xvh/med_schools_harvard_cornell_upenn_columbia_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+59,"another similar story - i had a 3.3 coming out of engineering (also class of 2018) and am now in my second year of my phd in a joint program at harvard and mit! you can definitely make it into grad school, even if your application profile isn't ""traditional"" (which doesn't mean anything because people come to grad school from all over the place in life)."
+60,"no, they should have done this much sooner and this should have been the default versus what theyre doing. to me, it is like telling a serial killer ""so proud of you, you didn't kill anyone today"".
+
+schools with pockets as deep as cornell, harvard, etc need to do more because theyve taken for so long"

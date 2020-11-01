@@ -1,714 +1,164 @@
-,body,timestamp
-0,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-1,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-2,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-3,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-4,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-5,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-6,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-7,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-8,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-9,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-10,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-11,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-12,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-13,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-14,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-15,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-16,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-17,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-18,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-19,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-20,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-21,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-22,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-23,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-24,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-25,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-26,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-27,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-28,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-29,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
-30,"0          lol true\n\nWish we had more memes on this sub
-1              A white student would be expelled for this
-2                                               [deleted]
-3       And not a goddamn thing will happen to them be...
-4       Were these students?\n\nBecause to be honest, ...
-                              ...                        
-5344    overall the faculty is very supportive, studen...
-5345    Im bi and asian and my experiences have been v...
-5346    There was a mess with the ‘23s about some homo...
-5347                                            I Love It
-5348    If you are a 24, that'll happen during orienta...
-Name: body, Length: 5349, dtype: object","0       2020-08-19 17:06:20
-1       2015-11-16 13:39:42
-2       2015-11-16 22:44:28
-3       2015-11-16 23:22:02
-4       2015-11-16 14:15:23
-               ...         
-5344    2020-08-22 21:43:21
-5345    2020-08-29 18:33:30
-5346    2020-08-29 23:12:54
-5347    2020-08-13 19:27:28
-5348    2020-08-12 09:24:54
-Name: timestamp, Length: 5349, dtype: object"
+,body
+0,"r y'all serious? this is so much misinformation. i suggest you read the emails that have all of this information instead of blowing it off as ""useless.""
+
+1. they announced that students had to leave by monday on the previous wednesday. that was way more time than other colleges gave them.
+2. given how fast the situation changed within that same week before leaving, could you blame them for delaying given the fact that dartmouth sustains the entire local economy of hanover? unlike other schools, dartmouth had other factors to consider because us shutting down had more at stake than just the well-being of students.
+3. are you saying that telling people to leave and come back wouldn't potentially bring the virus to campus/increase its spread/unnecessarily burden a rural community with an older population that relies on one hospital to sustain basically all of northern new england? get over yourself. 
+4. i've been refunded in full for housing and meals, including student fees. they said they'd get it done by march 25 if you read the student assembly faq (which they did), and added on student fee refunds today. this is just straight up wrong. 
+
+also, as for the dorm situation, their response wasn't perfect, but not in the ways you expected. they approved all international students to stay on campus except those who were already us citizens by mistake. according to opal/the fysep coordinator, this was unintentional because it was done automatically. 
+
+additionally, they made channels of communication open through the dean of the college email account, offered additional support through several offices, and have communicated daily with new information and updates. 
+
+they couldn't cancel spring break and isolate everyone on campus because people already started leaving. most people i knew didn't have finals that thursday/friday. i was literally on a bus when harvard canceled that tuesday morning, and a ton of others were already off campus by then. no one expected harvard to cancel, and i don't think any of the peers intended to either until that happened. this sent the higher education world into a meltdown, and dartmouth had to worry not just about a student body but a local economy too. 
+
+the schools you mentioned (harvard, yale, pton & more) also sent off their students really abruptly without telling htem how they could find housing/accommodations and told them not to come back while they were in the middle of their spring breaks. most of these schools actually fucked over international and low-income students by providing no information (harvard, particularly, announced they were cancelling and didn't tell low-income/international students what to do), some even denied international non-us-citizen students (cough: princeton) from staying, and all just totally screwed people over. 
+
+i don't defend dartmouth in a lot of things. this is something i will say they did better than most. the only university that i think addressed this better was cornell; they did everything we had to ask dartmouth for, but way earlier.
+
+read your emails next time. they updated people daily, were communicative, and answered questions as soon as those answers were available."
+1,"harvard is in the middle of a major city, dartmouth is in the middle of nowhere. 
+
+i’m not saying dartmouth won’t close, but i definitely think it’s less likely that they will."
+2,"for context, a fair number of kids take harvard orgo over the summer because it’s easier.
+
+i love dartmouth. for 50k a year, go to ut."
+3,how do they take harvard orgo?? harvard extension school?
+4,[https://www.summer.harvard.edu/course-catalog/courses/intensive-organic-chemistry/30609](https://www.summer.harvard.edu/course-catalog/courses/intensive-organic-chemistry/30609)
+5,"we have the same professor: matchacheep. harvard college and the extension school are the same school, same material, same resources and opportunities as you :)"
+6,"it's definitely not competitive or cutthroat like it is at some schools (supposedly). most people want to do well but still will spend plenty of time at frats or the doc or whatever else they like to do for fun.
+
+there are some outliers that spend a ridiculous amount of time studying though, i had a friend like this. (he's at harvard med school now). if you're on either end of the spectrum you'll fit in just fine"
+7,bro there are plenty of top ranking students that also like to relax on the weekends. if you’re gonna be that stuck up about it go to harvard
+8,"i think most people are really only involved with clubs freshman year but not so much afterward. i wouldn't say there is like really popular clubs everyone is a part of as a lot of clubs are based on interests which obviously vary. the club sports teams are pretty active for people who may have been varsity athletes in high school but didn't want to be an athlete in college. 
+
+i think clubs that are based on identity are popular. i think groups that are based on career opportunities like dartmouth investment and philanthropy are also popular among people interested in finance and investment banking. 
+
+basically, if you have some interest odds are a club exists for it. if a club doesn't exist for it you can make one and get funding for it.
+
+the unique parts of dartmouth are its small size and focus on undergraduate education. i think that this is something that is often touted but is true but the small undergraduate focus is amazing. most of the professors at dartmouth are from top schools like harvard, yale, stanford etc. so they know what those schools are like as an undergrad and due to their size it's more like a factory model where undergrads aren't really valued (according to most of them). at dartmouth you can actually hang out with professors, do research with them etc. and they won't be dismissive of you (by and large). i obviously can't really compare to other colleges but the alumni network at dartmouth is very strong. if you wore dartmouth swag in some random city odds are you would run into another dartmouth person and a convo would ensue. i think alumni are also genuinely interested in who you are and your time at dartmouth. i think a lot of this passion from dartmouth comes from the fact it is a smaller sized campus and more tight-knit and a place where you can always find your niche. "
+9,"honestly, it's completely possible to finish the be in four years while fulfilling all the distributive requirements and taking fun classes if you have a couple ap credits and plan on the major starting from freshman year. i have planned out my schedule such that i will complete the be degree in fours years, plus a minor in math and computer science (as well as the cs or engs study abroad). i'm also taking some fun (/easier non stem) classes like art history too! (not saying that non stem classes are easy, but i'm purposely picking easy humanities classes lol.) 
+(finally, i know harvard doesn't have a formula racing team, but dartmouth does.) pm me if you have questions about the major or scheduling:) i am planning on majoring in engineering at dart and love it so far!"
+10,"check out the answer i gave here a few days ago
+
+https://www.reddit.com/r/dartmouth/comments/ft0jp6/dartmouth_engineering_how_is_it/fm4klwg?utm_medium=android_app&utm_source=share
+
+i don't know anything about harvard's program, and i doubt many people here will. we can help with the research, but the comparison is going to be on you.
+
+i'll just add that it's totally possible to do both degrees in 4 years"
+11,go to harvard!
+12,"specifically see baker library and the rauner archives; hanover’s main street; the hopkins center & adjacent art museum; fraternity row and the dorms, of course. down toward the med school are the science and psychology buildings. every academic building has its own character and charm. the area to the east down wheelock st has the terrific athletic complex looking out on the stunning autumn colored hillsides. most of all, try to speak with students and faculty. i arrived there in 1965, and at our 50th reunion  we found dartmouth still the vibrant, exciting place we have always loved. many, many changes have happened at the college, but it’s still “dear old dartmouth, bless her name.” my daughter went to harvard, but she married a dartmouth man. there is no place like dartmouth, and as daniel webster said, “she is a small college, but there are those of us who love her!” when i was there i conducted tours, so i hope there is a student tour guide who can help you. the pandemic will affect how things are going, but once everyone is back it will be quite a ride. the students i met last year were simply outstanding—warm, brilliant, diverse, welcoming, and wonderful. my one regret is that i had only four years at dartmouth. i’d return today given the opportunity, and i am a very old alumnus. this is my first reddit post, so i wish i knew how to invite you to ask questions, but i am sure the college will connect you with the right people. travel safely and say hello to hanover for me. cheers - t👍🏼"
+13,"if harvard, yale, and princeton are self-involved, vain, name-dropping older brothers, dartmouth students are the cool, sexually confident, lacrosse playing younger sibling who knows how to throw a party and looks good in a down vest."
+14,"you'll be disappointed at dartmouth.
+
+here is the list of target schools in the us for those companies:
+
+tier 1: mit, stanford, harvard, princeton, caltech, cmu, cornell, uiuc, berkeley, uchicago (very elite in academic)
+
+tier 2: columbia, penn, gatech, duke, unc, rice, ucla, yale, northwestern, uva. (elite in academic)
+
+tier 3: claremont colleges, ut, washu, dartmouth, brown, uc san diego, usc, u washington, vanderbilt, nyu, stony brook, rutgers, uf. (name prestige only + flagship state schools)
+
+tier 1: they literally come in many ways to campus to meet and interview you regularly.
+
+tier 2: they come to campus annually (mostly to conduct competitions only)
+
+tier 2: they post jobs on your campus job board (e.g handshake)"
+15,"no real momentum for it? the ivy league also has something of a passion for colors as mascots (see: cornell, harvard)."
+16,"yeah, i see for that harvard but atleast cornell has a bear. idk i would kinda like to see an official mascot dancing around at the games!"
+17,they did buses for the harvard and brown game this past yer 
+18,"not impossible at all. each year the valedictorian has a 4.0 and salutatorian has a 3.99. the median gpa is around 3.45. obviously students from dartmouth go to the top grad schools. i have friends at many of the top 10 business schools, plenty of harvard and columbia law. "
+19,"i've heard that at some other schools, such as harvard, there is such a cutthroat mentality that people are unwilling to study with others or help others learn class material, for fear of raising the curve. i haven't seen that attitude here at all; in general, people are all willing to help others with learning course material.
+
+i agree with /u/cyclonicyoh - everyone is incredibly busy from all the activities outside of schoolwork. and it can be challenging to find exactly the right opportunities to get involved with. i certainly had a fair amount of turnover in what i do extracurricularly within my first two years here."
+20,"last year, harvard and cornell came out on the 11, so dartmouth will likely follow them a day or two after"
+21,"pretty much at this point, unless by some miracle i make it off of the harvard waitlist. 
+
+how is the internet at dartmouth? the web chat was a bit unclear since the people on it were saying that it was both good (100% wireless coverage) and bad (unable to stay connected on skype)"
+22,"look up harvard. i transferred there from dartmouth. they accept closer to 100 transfers. (they have limited freshman space but more sophomore+ ""house"" space.) good luck. "
+23,"this is making me wish i'd applied early decision to dartmouth :(
+
+congrats on dartmouth and yale, though. the columbia thing is kind of saddening because, until very recently (i've become really interested in dartmouth and i somehow, by some miracle, got on harvard's debate recruitment list), that was my second choice next to chicago. i'd have to visit and do more research (my interviewer gave me his email so maybe i'll write back to him and ask him more about it, but he went there in the early 80s), but dartmouth is probably up near the top now.
+
+that sounds fantastic."
+24,"as someone who does alumni interviews, i typically get assigned my candidates and then when the interview happens is based on my ability to schedule it. i’ve also only had three students i’ve interviewed ever get in— i’m in a major city with a competitive applicant pool. as an interviewer, i will leave the interview with a sense of whether i liked the kid or not, and can usually tell if they have no shot, but otherwise i don’t really have a sense if they’re likely to get in, because dartmouth just gets so many competitive applicants.  there was only one kid i’ve interviewed who i knew would 100% make it (legacy, top grades at a top school, spoke a bunch of languages and stuff), and only one applicant who i would have been truly crushed to see not get in (he got in). i know my alumni association tries to interview everyone, but we have a ton of alums in the area so that’s pretty doable. we don’t get a ton of guidance in terms of how to conduct the interview and every one always goes a little differently, so if this interview felt different than your other ones, it’s probably just because that is how this particular interviewer does things. 
+
+i will also say that when i was a high school student, i had a great harvard interview. got a call the night before, interviewer said the deadline was that week and he’d been told to do whatever it took to make sure i got interviewed before that deadline so he was coming to my high school to meet me. interview went really well and he seemed to think i had a strong chance. i didn’t have an interview with dartmouth. guess which one i got in to?"
+25,"okay so we know from the harvard documents that getting an interview late from harvard is a very good sign.
+
+so maybe that's true of dartmouth too?
+
+or maybe it's not. dartmouth is a lot more generous with interviews then most other schools so maybe getting one even this late is meaningless. maybe your alumni just forgot today contact you. it certainly sounds like you interviewer was busy and (maybe) a little disorganized. maybe you are a ""throw them a bone"" candidate like you said.
+
+point is, nobody really knows and everybody (except for like a former ao or something) is just as clueless as you. interviews are assigned late for a myriad of reasons and it's impossible to pinpoint a signal in all the noise.
+
+that being said, i haven't heard of many dartmouth applicants getting a phone call, and it sounds like even though there were no alumni in the area admissions made a very intentional effort to hook you up with one. that in conjunction with the fact that your interview was so late could mean that the admissions office needed to hear what an interviewer had to say about you (which would be a good sign). but also dartmouth is known to place little value on alumni interviews so it seems strange that one would be so important to making their decision.  who knows what they're thinking?
+
+you also mentioned that your interviewer had to leave the interview because they were busy and that they arrived late. this means that you were not interviewing at an optimal time for them, which likely means that they needed to scramble to find snippet of time to interview you asap. i don't know exactly how you guys set up a time, but if you interviewer recommended this specific time it could mean a couple of things, 
+
+1. you could have been assigned as a high priority interviewee. we saw on the harvard documents that they assign each interviewee  on a scale of 1-5 (i think it's 5? whatever it doesn't matter). for interviewees assigned a 1 they specifically say that they need the applicant interviewed asap. perhaps dartmouth has a similar ranking system and perhaps you were assigned a 1?
+
+or 2. the rushed interview just means that the interview report deadline is coming up and you interviewer has been procrastinating interviewing you. they just needed to scramble to get your report in before the general deadline. based on what you the impression i have of your interviewer from your post this seems pretty likely.
+
+tldr - who knows what it means? it might be good, it might be bad, it might be meaningless.
+
+i hope this post was (semi) coherant. i'm a fellow dartmouth applicant as well. maybe if all goes well i'll see you campus next year :) good luck!
+
+edit: oh also write them a thank you note asap! mentioning any information you forgot to tell them is great, as is reiterating that dartmouth is your first choice (as long as you backed that up by knowing a lot about the school). bonus points if you can mention something from your conversation!
+
+
+
+"
+26,"there is no system like harvard. or if there is, it’s not known to the general dartmouth alumni interviewer pool. we just get assigned people at random and are told to interview them by a certain date. sometimes i do them right away, sometimes it’s literally the day the report is due. depends entirely on how busy my schedule is. but point being: don’t read into the timeline of getting an interview with a dartmouth alum. it’s quite literally a crapshoot based on how many applicants there are versus how many interviewers are available. "
+27,"created a throwaway because i don't want to link my main account to my school. i'm a 19 (junior) at dartmouth. also, i know that my positive experience does not speak for everyone here. most people are very happy here, but a few are not, and i'm not trying to delegitimize their experiences. 
+
+1) i turned down penn, georgetown, and uva. i was denied at harvard (after waitlist), princeton, and yale (to which i had applied ea and had been deferred). choosing dartmouth was the best decision of my life, and if i had to do things over i'd just apply ed here. i chose dartmouth because of its small size and academic excellence, especially in undergraduate teaching. 
+
+
+2) it's hard for me to remember what i was expecting when i decided to come here, but i'll try my best. i was surprised at how quickly this place felt like home for me. i was expecting the process to take a few terms, but i felt comfortable here within the first week. i was also surprised at how accessible the social life/greek life is here, given my impressions of other schools. i was also very surprised at the level of participation by the student body in school traditions - homecoming, green key, various ""challenges"" (ledyard, lou's, etc.). i think the thing that surprised me most is the institutional memory of the student body - i feel like i've heard more stories of legendary students from the past and history of the college than i might've at other places.
+
+3) i think that dartmouth is the best place to go to college in the country, based off of my conversations with friends at other places and my own experience here. the best thing about dartmouth is the social scene. greek life is extraordinarily open and there is basically universal access to parties among the student body. in addition, the clubs and student interest groups have a strong focus on providing social outlets (formals, semis, socials) for their members. as a freshman, you have a number of opportunities to get to know people outside of your floor, and i was friends with a number of upperclassmen by the end of my first term. academically, i am a huge fan of the quarter system. classes are intense, but you do not have to focus on too many things at one time and it makes things easier to manage. you also have huge opportunities to meet and become friendly with professors. i have never been taught by a ta or grad student, and i have done research with or work for two professors here - the experience has been absolutely invaluable to me.
+
+
+i'd like to talk about the frats for a little bit, since i know that's the huge elephant in the room. i am a huge fan of greek life, though it's not without its problems. some frats, for instance, have problems with sexual assault. like all things, though, this varies greatly among the frats - others are known for being safe or welcoming or tolerant etc. i think greek life is so great here in part because it is so pervasive. at some schools, there is simply not enough space for the majority of students to be in greek life, and so frats become exclusive and barriers to entry. at dartmouth, most students are involved in greek life in some way, and among those who are not many are not involved by their own choice (although this is not always the case - especially not for women, the sorority system has its own problems). each house has a specific identity. for some houses (maybe 3 or so out of 13), this identity is entirely or almost entirely based on the varsity teams from which they draw new members. for the others, the identity is self-selecting and persistent - students have a year to figure out where they are comfortable, and generally join frats where they fit in. there are eclectic frats, co-ed houses, ""liberal"" and ""conservative"" frats, ""smart"" frats, etc. it's impossible to talk about this without descending into stereotypes, but my point is that there is enough of a diversity that most people actually find a frat that feels like home, and that in principle there is a home for almost everyone on campus, including natural introverts. the other cool thing is that most houses, including the ones which are not typically seen as the best on campus, have at least one major event which a ton of people on campus go to, so there is a flexible distribution of social events among the houses. and just about every house has the resources to plan and conduct social events and to have an open basement most nights. frats and sororities also typically host a cappella, dance, rap, and comedy performances every term. 
+
+
+most of my unaffiliated friends have found great communities in other student groups, and still make use of the frats as social spaces during on nights. i am affiliated, and it has been a extraordinary experience.
+
+
+4) the food is good. foco, which is the all-you-can-eat food court, has typically great food, although it varies and there are some bad days. the hop just changed for the worse, but the food is still good. i don't do collis that much, but it's also a popular option. the only negative about eating here is not the quality of the food itself, but the fact that the meal plans are pretty limiting and there are less dining options than at other, larger schools. off-campus dining is much better than you'd expect from a school this size, though, so that's a plus. generally multiple great options for eating out, whether you're looking for something quick or a fancier sit down dinner. 
+
+
+5) you'll be fine. a bunch of friends of mine are econ majors, and they're doing just fine without holing up and working 24/7. 
+
+
+6) students work out here more often than at other places, in my judgment, but generally i'd say the biggest problem is that students (including myself) live unhealthy lifestyles. lots of drinking and a good amount of all-nighters. the work-hard play-hard lifestyle is definitely what prevails here. i love it, but you might not. like at every college, there are problems with sexual assault/violence. recent reforms have helped this, but it's never going away. political conflict on campus used to be a problem, along with the sense among the frats that they were under the gun, but it has been an extraordinarily calm year - i'm not sure if this is a problem any more. things seem to have really quieted down since the lohse/freedom budget days, and the detente has allowed student life to thrive. 
+
+
+7) don't know enough about williams or northwestern to make the comparison. 
+
+
+8) a lot of people will tell you that dating is dead here but that's not really true. some students participate in ""hook-up culture"" - going to frat parties looking for a one-night partner, others find more permanent relationships. dartmouth is a very social place, and the dating scene is what you make of it. 
+
+
+9) they're great. most of dartmouth's parties are open to all students on campus, and the on nights are wednesday, friday, saturday, and monday to a lesser degree. frats will typically be open to all of campus if they are open on a night, and they will typically be open wfs except if there is an event - formal, semi, etc. there are also big parties every term which are special, but are also open to all students. pop-punk, pigstick, highlighter, etc occur semi regularly. there is also one big weekend every term - in order, homecoming, winter carnival, and green key. these also feature big parties open to all students. parties typically center on frat basements, where students play dartmouth pong. dartmouth pong is a competitive drinking game with 2-4 (typically 4) players. players use ping-pong paddles with the handles broken off (grasping around the paddle itself) and play what looks like a game of ping-pong with two clusters of cups of beer or water arranged on each side. if one person hits a cup on the opposite side, the other team drinks a half; if one person sinks a cup on the opposite side, the other team drinks a full. it's very fun, and a frat basement on a typical on night has 3-5 pong tables with games ongoing, music playing over speakers, and other students drinking and talking around the ongoing games waiting their turn. there are a lot more rules of pong and permutations of the game but it's too much to describe in text.
+
+
+10) housing options are pretty limited as a freshman, and you will almost certainly (or certainly, not sure which) have one or two roommates. i loved my roommates, and am still friends with both. as you become an upperclassman, you will be able to live in a single or in a fraternity (or both). most students live on campus. "
+28,"i don't think you'll have a major difference in experience being 22 or 23 than anyone else, assuming that as a transfer, you wouldn't be there for 4 more years or anything. we have some older students, some due to discipline, academic, medical or other issues requiring them to take time off or extra time.
+
+i personally only applied to dartmouth (early decision). had early decision not been an option, i'd have applied to a wide variety of schools, including several ivies, because who knows where you might get in, but it's not as though all ivy league schools are equal. the experience you would have at dartmouth is very different than the experience at harvard, which is very different from the experience at cornell, etc."
+29,"my school doesn't rank, but constantly sends kids to ivies.  we have four kids going to harvard from a class of 190, with the total amount of kids going to ivy league schools somewhere around 25. my sat and act scores are in both their median ranges, but i've heard about kids with perfect act and sat scores being rejected from dartmouth, so now i'm just looking for a way to stand out a bit!"
+30,"as greenoble mentioned, dartmouth wants to be the 6th need blind school for internationals. even as a need aware school , for the class of 2023 these are the official numbers according to their common data set :
+
+number of internationals in dartmouth : 428
+
+number receiving financial aid : 261
+
+% of internationals receiving fin.aid   :     61% 
+
+average amount of fa to internationals :    **68,998 $  !!**
+
+please note this is the second highest after harvard !!!
+
+so i think that they will be generous this year as well. good luck!!"

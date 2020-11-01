@@ -2,7 +2,6 @@ import pandas as pd
 
 school_names = ["yale", "princeton", "columbia",
                 "cornell", "dartmouth", "upenn", "brownu"]
-school_name = "columbia"
 file_types = ["comments", "posts"]
 
 for school_name in school_names:
@@ -20,11 +19,11 @@ for school_name in school_names:
                 text = parsed[row].iloc[i].lower()
                 num_mentions_total += text.count("harvard")
                 if("harvard" in text):
-                    harvard_posts.append([parsed.body, parsed.timestamp])
+                    harvard_posts.append(text)
                     num_mentions += 1
 
         harvard_posts = pd.DataFrame(
-            harvard_posts, columns=['body', 'timestamp'])
+            harvard_posts, columns=['body'])
 
         csv_name = school_name + '_' + file_type + '_final.csv'
         harvard_posts.to_csv(csv_name)

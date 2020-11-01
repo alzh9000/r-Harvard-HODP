@@ -1,208 +1,165 @@
-,body,timestamp
-0,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-1,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-2,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-3,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-4,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-5,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-6,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-7,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
-8,"0      I summarized their summary with most of the bi...
-1      Forget about classes moving online, forget abo...
-2        The year is 2037. “America” is synonymous wi...
-3      Hello, \n\nsorry to interrupt your memes, trus...
-6      I was in dorm eating dorito when phone ring \n...
-                             ...                        
-988    The fact that I have to pathetically scribble ...
-989    Lots of professors have never used online tool...
-991    to anyone with family in China/Wuhan, I hope t...
-994    I have A TON to do. Big prelim Thursday, club ...
-998    It hasn't hit me yet that i'm leaving and I'm ...
-Name: body, Length: 394, dtype: object","0      2020-06-22 19:34:30
-1      2020-09-04 04:47:37
-2      2020-08-22 21:58:13
-3      2020-03-14 09:31:17
-6      2020-03-11 02:03:04
-              ...         
-988    2020-04-27 09:42:44
-989    2020-03-11 21:41:50
-991    2020-01-26 21:11:53
-994    2019-11-18 06:06:47
-998    2019-05-27 01:05:53
-Name: timestamp, Length: 394, dtype: object"
+,body
+0,"  the year is 2037. “america” is synonymous with “cornell.”
+
+during the 2020-2025 covid-19 pandemic, cornell was the only university to succeed in reopening, a herculean effort that bankrupted every other university in the nation. with its multi-trillion dollar endowment it accumulated from the donations of billionaires from around the world, who lauded the success of the big red vaccine, cornell bought every other university in america. 
+
+i’m a 2036 graduate living in new york city. today is job enrollment day. since my enrollment window isn’t until 4:00 pm, i decided to head down to the local nasties to pick up some buffalo wings and signature cornell ice cream. 
+
+as i’m waiting in line, i overhear someone talking over the phone. it’s some software engineer from my class bragging about his brand new six figure salary. he got lucky with his enrollment window. i just hope there are more cs slots left, but with my time window, i’ll be lucky to land any engineering job. 
+
+suddenly, i hear the familiar chime of the nationwide intercom system. it’s time for the national anthem. i immediately turn toward the nearest smiling portrait of president martha pollack, place my right hand over my heart, and belt out my loudest “far above cayuga’s waters...” the man on the phone appears to pay no attention. he’s immediately grabbed by secret ccct agents standing in line and disappeared. 
+
+as i stand in line trembling, i can’t help but selfishly hope that his job slot becomes available by my 4:00 enrollment window.
+
+by the time i finish singing with a “hail, all hail, cornell!” i’m next in line. i make my order. “that’ll be 25.00 brbs,” the aep bot-cashier beeps. since the collapse of the dollar back in ‘21, big red bucks have been the official currency of the united states of cornell. i swipe my id card, but it gets declined. oh no! i forgot brbs don’t roll over month-to-month. embarrassed, i run back to my dorm room in low rise 21756. 
+
+i check the time. it’s 3:55 pm. i hop on my computer and enter my net-id: ab345287 and my password into citizen center. before i enroll, i have time to vote in the annual presidential election. i click on the election tab, fully expecting the usual two options: martha pollack and martha pollack. but, to my surprise, i’m instead offered the options of martha pollack and walker white! he must’ve hacked the election! i eagerly click on his name and submit my ballot. 
+
+suddenly, my internet goes out. *this must’ve been a test, and i’ve failed*, i think to myself while bracing against the back wall of my dorm room as i wait for the ccct to bust down my door. but nothing happens. my internet comes back on. the ballot now has the two usual options. dejected, i cast my vote for martha pollack and head to the enrollment page. 
+
+it’s now 3:59. i’m watching the second hand of the clock app on my phone. just as it strikes 12, i click “enroll.” the page buffers. a minute passes. then another. finally, i’m greeted with my career options. the only slots left are in the fine arts. without a cs slot available, not even 56 years of programming experience could grant me a software engineering job. crying, i choose to be a painter. my projected annual salary is 10,000 brbs. i have 400,000 brbs in student debt. can i even pay monthly interest? 
+
+before i can do the math, my door explodes and i’m placed in handcuffs. “citizen,” an officer addresses me, “with your projected annual salary of 10,000 brbs, you will be unable to pay the annual 100,000 brb citizen tuition. as such, you have been found in violation of amendment 35 of the cornell compact. your diploma is hereby null and void and you are to be expelled from cornell immediately.” 
+
+i’m sent to canada, where i decide to enroll in the newly founded community college known as harvard, renowned for being a refuge for cornell rejects."
+1,"as the decade comes to a close and we draw 10 years closer to the impending climate apocalypse, the moderators of r/cornell thought the timing was apt for a history lesson, because we know how much y'all love breadth requirements.   
+  
+the cornell subreddit was, apparently, created roughly 10 years ago by u/drboda, who has been inactive for the last 10 years and has fewer posts on his account than i can count on one hand. it is truly remarkable that the spirit of this subreddit's founder has survived intact in its current users. speaking of which, we have gone from just u/drboda and his alts to 16,674 readers at the time of writing, of which at this time approximately 22 aep majors are active. we've also grown to a daily subscription rate in the mid double digits, and a monthly view rate of over 2 million for each of the last 2 months, of which, again, about 22 were unique. through that time, we've seen moderators come and go, including u/laveritecestla (aep '18) and u/thed3xus (aep ms '19), who recently graduated and who you may be familiar with. some grad student and alumni lurkers may even be familiar with even older mods such as u/convexpreferences (unflaired), u/enyo287 (graduation date unknown), u/theindigosky (aep '14) and u/samuelgompers (ep '13), who had to be removed by force by reddit admins some time ago. he was actually so old aep hadn't yet rebranded and was known as just ep. some speculate this is due to cornell's recent trend of grade inflation, before which there were no as given. let that serve as a reminder: things could always be worse.     
+  
+if you're currently a cornell student, you were probably between 7-14 years old at the start of the decade. some of you probably spoke no english at that time or lived in a totally different country. many of you probably didn't even know what cornell was, or had never thought about going to college at all. we're 100% sure you were all fucking nerds tho.     
+     
+the world has changed a lot since 2010. back then two and a half men with charlie sheen was one of the most popular shows on television. people watched the office on nbc, not netflix. snapchat didn't exist and uber was a year old. the most popular song of 2010 was tik tok. now it's an app, and owned by china.   
+  
+cornell has changed a lot too. in 2010 our president was not martha pollack, a cs theorist, but james skorton, a cardiologist. imagine hiring someone to run a university who makes financial decisions like majoring in psychology. martha has an h-index of 51. we didn't make that up, fucking chad she is. david motherfucking gries has an h-index of 40. who has more programming experience now, bitch?  
+  
+some of the people reading this are probably ed admits or even rd applicants, so it seems appropriate to discuss how the university has changed in this regard, too. for the class of 2023, cornell had an overall admission rate of 10.6%, and an ed rate of 22.6%. for the class of 2014, the statistics were 18.4% and 32.7%, respectively. by contrast, harvard's admission stats were 7% for rd and no one knows the ea rate because they apparently didn't have it. cornell's rd rate in 2018 was 8%, to put that in perspective. idk about the rest of you, but this was actually more in line with current numbers than i expected. notably, just 4 years earlier (class of 2010) the admissions rate was actually 25%, with an ed rate of 40% for cornell, and 9% and 20% for harvard. i know this because i accidentally looked up these statistics instead of the relevant ones from a decade ago. oops.    
+    
+speaking of mistakes, let's go over some of the big ones. the 2010s looked so promising coming in, and yet we all ended up at cornell. we are sincerely disappointed in all of you. more seriously, we made many mistakes this decade as a species, and learned from few of them. i'm going to get political for a moment. in 2010, we finally came together to give healthcare to the american people. 10 years later, we need gofundme to cover basic operations. in 2010, we elected the most conservative generation of politicians ever to the us government. now, in 2019, we are poised to do the same again. globally, occupy wall street and the arab spring signaled a departure from the systemic oppression of earlier eras. today, people in hong kong fight to defend their basic liberties from a dictator, and we deface even meager symbols of support for their people. but hey, at least we got some good memes out of it.           
+   
+perhaps the greatest growth in the 2010s has been in the meme sector. one of the most popular memes of 2010 was a picture of keanu reeves. people still get massive karma with the same exact picture of keanu reeves. in 2010, people got their memes on reddit and cheezburger. now, people still get their memes on reddit. truly a transformative decade it has been.    
+  
+we want to give a shoutout to the r/cornell community. y'all are pretty dank. this community is by far the best ivy shitposting subreddit, not that we really have any competition. but we are also helpful, welcoming, and insightful. everyone in this subreddit contributes positively to the community, and we all really enjoy helping to keep this community spam-free for all of you.   
+    
+here's to the continued perpetual growth of the aep major, and another decade as the #1 ivy shitposting sub. whether you had a great decade or a shitty one, keep in mind: in just 100 more years, you'll finally be allowed to talk about 2110 finals on this sub again, and maybe gries will even join you himself. until then, shut the fuck up, and have a happy new year.   
+  
+-the r/cornell moderation team"
+2,"i was doing what you could call 'investigative journalism'   on the other ivy league subs and i discovered a very important fact:
+
+we are by far the best shitposting sub in the ivies, none even come close. congrats guys, we're truly amazing.
+
+
+with that being said, we need to make this sub even better. if ivies get on us over anything we need a sub to rub in their face. that's why i propose this one secret doctors hate to make your sub bigger: upvote downvote icons that represent cornell
+
+
+harvard and yale both have them and we can't let them boast their prestige like that, we need to show them we're on equal playing field. i'm thinking the upvote can be the cornell logo and the downvote can be the okenshield stir fry.
+
+
+if you're interested in joining the movement here's the change.org:
+
+https://www.change.org/p/r-cornell-mods-change-up-and-down-votes-on-r-cornell"
+3,"regardless of whether you think cornell is reopening just for the money, it's important to remember that returning is totally voluntary. cornell did a great job, like harvard, it allowed students to stay completely online and not risk their health. it also gave everyone the option to return, which not many other institutions have. the only possible way i could have seen them handling this better is with decreased tuition, which harvard/princeton/others have shown isn't too realistic, especially considering endowment size. why complain?
+
+tl;dr: cornell's reactivation plan went above and beyond. if you don't think their in-person measures are enough, then you are under 0 obligation to go back for cornell-specific reasons (leases are not the fault of this specific handling). if you want to go back, great. why so much complaining?"
+4,fake ivy no more. us news and other plebian newspapers will rank us accordingly.  don't they know we are the best college? we are growing every single day. every minute. every second. this adds to our massive endowment. why rank uchicago above us when they are all unfun virgins? why rank yale above us when every single undergraduate institution  they built will be irrelevant in 5 years? mit and stanford  wishes they have our ivy name. harvard wishes they have our engineering programs. princeton and upenn can only dream to sleep safe at night. columbia wishes they have our bridges to jump from their problems. dartmouth wishes they have our girth and length of the size of our campus. see all of this? parents and highschoolers will know who is the best shitposting ivy.
+5,"dear cornellians,
+
+while we are all locked up during this pandemic, i thought i would write a reflective letter to my past self, when i was a senior at cornell almost 10 years ago. it is entitled “what i wish i knew at cornell”. it ended up a bit long, but might be useful to someone (or, something you disagree with!).
+
+cheers,
+
+cornell alum
+
+\---
+
+**1. find work that you enjoy.**
+
+work is where you are paid to solve someone else’s problem (e.g. customers, boss, investors). school is a contrived microcosm; gpa (including ivy league pedigree) does not matter in the long run. it may only help you get an interview for your first few jobs (and i will assume that you are smart if you went to cornell). however, i mostly care about your ability to solve a problem (quickly) that i am paying you to solve.
+
+thus, passion and academic intelligence are only useful insofar as it helps you solve real, external problems. the best problems are unsolved, which means the answer is not in a textbook but may require foundational ideas from textbooks. i mistakenly thought passion and academic intelligence were sufficient to get a great first job; they were not. you need to show a company why you are useful to them, for a particular role, to solve a particular problem. passion is good, but it is individual and personal; it is what motivates you. the world does not care about your passion if it is devoid of work utility.
+
+ask yourself, if i paid you $100k a year, what can you do for me? think of a job as a matrix; the columns are industry verticals (e.g. energy, health, technology, financial services) and the rows are job functions (e.g. marketing, sales, legal, engineering, product, finance, operations). where do you want to position yourself? a finance guy in a technology company is not as important as a finance guy in a financial services company. think carefully about your ideal industry vertical and role.
+
+fortunately, for many of you, doctors, lawyers, bankers, and consultants have linear career paths which may explain why hoop-jumpers are attracted to them (i was a short-lived former consultant), as they are modeled after university admissions. be careful; make sure you truly enjoy what you spend 8-10 hours a day doing; do not be a slave to your parents expectations or peer prestige.
+
+if you don't know what kind of work you enjoy, you must explore what that is every day of every year until you figure that out. it is unlikely that you do at this stage in your life; but you should know by the time you are 30 years old. do not become one of my countless peers who lamented on wasted years during my last cornell reunion, despite having the prestigious ‘consulting’ or ‘finance’ job when we were seniors. tick tock.
+
+**2. get really good at work you enjoy.**
+
+this one logically follows from (1). the most valuable things are hard because they are not solved yet. commit to getting good at what you enjoy, and commit to sucking at whatever you do for a while \*before\* you get good at it.
+
+the 10,000-hour rule is a useful lens. it suggests that the key to achieving 'world-class' expertise in any skill is a matter of practicing the correct way for a total of around 10,000 hours - of which you will suck for the first 3,000 hours. a career lifetime consists of about around 80,000 hours (a single full-time work year is \~2000 hours), so you have plenty of time to experiment in your 20s. in my case, i made a  hard pivot in my mid-20s and sucked for a few years, spending nights/weekends on that pivot, but managed to become so good at what i liked i now get paid well for it and have my pick of jobs. i made the switch after 4,000 hours and am still growing.
+
+**3. pick a wave to surf.**
+
+the world is a little meritocratic, but most of your success will depend on how well you position yourself within a larger macroeconomic trend. you want to create value and capture a large slice of that value. when the pie is growing faster than the people competing for that pie, your company, and in turn your career, will grow.
+
+as a trivial example, joining kodak as ""super awesome job title"" in 2007 would have been a terrible idea. even if you were promised a fast-track to a promotion, executive visibility, good compensation, and a fancy desk, it wouldn't matter. mobile phones would soon supplant the personal camera industries purpose for existence. you had better hope your skills would transfer to a role in the mobile world, or you had better be creative in finding adjacent growing industries. indeed, i know someone who moved from kodak's projection business to virtual reality at facebook because, as a hardware optics engineer, the physics were similar. his peers who could not find another wave to surf were fired.
+
+**4. join a rocket ship (or 'speed boat').**
+
+assuming you picked a growing macroeconomic wave to take your career board and surf, you need to find the best company to join. paddle over and beg to hop onto the fastest boat, so to speak. this would have been google when most people still used yahoo (or better yet, altavista); the wave was the exponentially increasing amount of information on the internet coupled with exponentially decreasing costs of personal computing devices that could easily connect to and generate content for said internet. these macro-trends are obvious in retrospect but can be difficult to identify. finding medium-sized but very fast-growing companies is the most probable thing you should be targeting, as they are established (lower risk and validated customer value) but still rapidly growing.
+
+unfortunately, that is why i think nonprofits/ngos suck early in your career. join an ngo \*after\* you achieve seniority in a particular domain, then take a pay cut and give back as a senior director at an ngo. otherwise, if you join as a low level employee, you will hit a ceiling and learn in a resource constrained environment.
+
+if you opt for a conventional career path (e.g. lawyer, banker, consultant, doctor), then continue jumping through those linear hoops. positioning is still important; but success is about out-achieving your immediate peers for a fixed or slowly growing number of slots. unsurprisingly, academic prestige matters most in these fields because it positions you to be in front of the hiring line. if there are a fixed set of open jobs among candidates who all know the same things who all followed a similar path, why wouldn't you take the top 5% of the class or harvard graduate first?
+
+**5. be close to the money.**
+
+in finance, they call it ""the front office"". you don't need to be a wolf of wall street bro, but you should be in the front office of whatever your company is. your job needs to be close to what makes money because your impact will be more easily measurable. jobs within companies are very unequal, despite having similar lifestyles and dressing the same. this rule of thumb will make it harder to replace you over time and you are more likely to make a lot more money more quickly than your peers.
+
+for example, in silicon valley the software engineers and product managers are in the front office. working in finance at apple or facebook isn’t that important. building the next product is. conversely, being a software engineer at goldman sachs is a terrible idea (perhaps, unless you are a quant trader and directly make them a lot of money). you want to own the client relationship or buy and sell things on wall street. if you're a management consultant and not on-site, that's a bad idea too. you need to own the client relationship - particular senior client individuals are paying for your expensive project. if you're only a body to throw at a problem, you're replaceable and lack leverage.
+
+even if you work at a non-profit, this logic applies. which role(s) (e.g. program delivery, fundraising, marketing, operations, evaluation, web development, administration) are  'close to the money' (closest to the value someone is paying you for)? i would pick program delivery (delivering results) and fundraising (talking to donors). in some sense, private equity isn't much different. the person who fundraises from rich donors or sources new deals is more valuable than the low-level analyst crunching excel per deal. thus, it makes sense why managing directors at pe firms or goldman sachs don't touch excel; excel is merely a stepping stone to this 'end game' for aem majors.
+
+**6. solve critical problems (and make your boss look good).**
+
+solve the most important problems, even if it’s not sexy. what you want to do may not be what leadership wants you to do. unfortunately, even if what you want to do is ""right"" in the long run, you need to do what your boss wants. convince them later. if that means doing some shit work for a little while to get something done you need to do it, and fast. the most interesting or sexiest problem may not be the most business critical thing that needs to get done.
+
+when you do have to do frustratingly mind-numbingly boring things, try to automate it the next time or try to make it more fun. if this is all you do, some process is broken and you should convince your boss that this needs to be fixed and propose fixing it. if shit work is all they want you to do, see #8.
+
+**7. stay curious and indulge your interests.**
+
+no one is born with a map that outlines a plan for their life (unless your parents have forced theirs upon you). what use is a map if the world is always changing? instead, you need to find a compass. i think curiosity will be your best north star. make time to be self-indulgent in things that you are eager to discover, or that excite your imagination. do it, even if you suck. this will ensure you always do (1) work that you enjoy and (2) stay good at it over the long run. which leads to the next point...
+
+**8. know when to stick, and when to quit (then go to #3).**
+
+we don't talk about strategic quitting nearly enough. the world is always changing, and so will your interests. if something doesn't feel right, and you know it's not right, have the courage to strategically quit. this is not giving up because something worth doing is too hard; strategic quitting is being selective in investing your time in things that will give you the most reward. go read seth godin's book ""the dip"".
+
+**9. set limits.**
+
+you are more than just your job. one day your career triumphs and failures will all be but a distant memory. strong organizations move on without you by hiring a new person. set limits on what you are willing to compromise and what you are not. if your commute is dragging you down, figure out a way to move or quit. if a new promotion requires far more travel than your family wants, don't take it. do you have enough time to pursue your hobbies or see old friends?
+
+**10. invest in your friends and family.**
+
+it becomes increasingly harder to make time for people as you get older. everyone gets busy; if you're free they need to be free too. it can be harder to make many new friends in new cities, especially if you're an ambitious overachiever who is likely to rotate through a few major cities for new career opportunities. indeed, i have spent considerable time moving between three major cities in the usa in just the past 6 years.
+
+therefore, you need to be proactive. maybe you have a friend who is a ""starter"" and can hop on their social bandwagon. but more likely, you need to own and actively build your community. plan for a year or experimenting with different social activities to find your crew. most people are waiting to be invited somewhere. everyone wants to feel included. be a leader, and make things happen.
+
+**conclusion.**
+
+if you follow that recipe, there's a high likelihood you'll have a rewarding, successful, and enjoyable career. you'll feel happy, your friends and family will be happy because you'll be happy, and you'll continue to get better at your thing.
+
+there is no perfect job. if you're successful, you'll have your pick amongst a lot of good choices in different ways. there won't be a ""best"" career choice. only best, with respect to your values and current situation at the time of the decision.
+
+think about your job as a long and nonlinear career arc. you need to be deliberate and intentional with your time. your goal should be to shift your work away from tasks you dislike or are bad at, and towards tasks you enjoy and are good at.
+
+you might not know what you enjoy and are good at yet, but you probably already know what you don't enjoy or are bad at. that's normal. you need to explore more to discover what things excite you. you'll know when your natural curiosity takes over and the task at hand doesn't feel like a chore.
+
+don't be a dreamer who doesn't execute. for example, i have a friend who is unenthusiastic about her marketing career but can't decide if she wants to be a journalist or get a phd in psychology. she's 30. she's dreamt about these things for 10 years. instead of spending sunday afternoons writing articles or reading psychology, she watches netflix and makes excuses. at this rate, she'll wonder if she made the right choice at 40, and 50, and 60.
+
+think about exploring your interests like going to the gym. you might need to work your way up to going, but after you get started it begins to feel good.
+
+stay safe and healthy everyone. this pandemic sucks, but it soon shall pass. the next decade of your life will be exciting and filled with many ambiguous choices. everything will eventually work out if you maintain the right mindset when navigating this next chapter of your life."
+6,"i’ve had it with these fucking bitch-ass vending machines in libraries around campus that promise me a sweet lemon ice tea but have the audacity to say they’re “cash only” or have a “network error”. just now, i made an innocent gander up to the machines in the cocktail lounge to purchase a diet pepsi in celebration of starting my essay i’ve been putting off all day, and what do i get you ask? this fucking failure of simple currency-based automations was once again out of order. 
+
+no wonder we’re the joke ivy league when our fucking vending machines see less working action than a eunuch’s balls. i hear people worrying about robots taking over the world. sure, that could be true at some place i didn’t get into like harvard or stanford; but you can bet your “big red”-prelim tanking-desperate for a goldman offer-shithaca hating-frozen ass that the terminator ain’t gonna be made at this shitty campus where simple machines can’t even handle the basic functions of letting me buy a fucking drink. jesus fuck, even the chernobyl reactors have a better reliability track record than the tin can fuckups we somehow decide to call vending machines at this place. pathetic. 
+
+tl:dr i quit nicotine 4 days ago and can’t get a fucking bottle of aquafina at the library."
+7,"hey guys, i need some advice. i’m a bit worried because right now my gpa is a 4.26 (i messed up and got an a in chem 2080 :( ). i think that it might seem too high and harvard medical school might reject me. i’ve been trying to bring it down this semester but i just keep getting everything right. does anyone have any tips on how i can lower it to a 4.00 exactly and keep it there? 
+
+what study techniques do you guys use? mine are clearly not working for what i’m trying to accomplish.
+
+any tough classes that might make me get an a? (something similar to chem 2080 preferably). 
+
+thanks so much, this has really been stressing me out."
+8,"hi guys, i’m justanameandaface! cornell has been my dream school ever since i got rejected from harvard ed. the only issue is, the application is due very soon and i haven’t started my supplement. can someone please read over my blank google doc and give me some feedback on what i should add? because being accepted students yourself, i’m positive you know exactly what admissions wants to see. thank you and see you all next fall!"

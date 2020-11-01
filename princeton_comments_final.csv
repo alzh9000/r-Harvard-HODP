@@ -1,1151 +1,216 @@
-,body,timestamp
-0,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-1,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-2,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-3,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-4,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-5,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-6,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-7,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-8,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-9,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-10,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-11,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-12,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-13,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-14,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-15,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-16,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-17,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-18,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-19,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-20,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-21,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-22,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-23,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-24,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-25,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-26,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-27,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-28,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-29,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-30,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-31,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-32,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-33,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-34,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-35,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-36,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-37,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-38,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-39,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-40,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-41,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-42,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-43,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-44,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-45,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-46,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-47,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-48,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
-49,"0                              He really do be vibing tho
-1                                          I miss the fox
-2                                  Aww I miss him so much
-3       I saw one today, in the same area, with squirr...
-4       Is this the fox appearing near the Theology bu...
-                              ...                        
-3777                                            [deleted]
-3778    aww :(  Feel better!\n\nAnd on the off chance ...
-3779    Yeah, I am. I think I'm in love with Vikram, o...
-3780                                            [deleted]
-3781    I'm really hoping that was a subtle pun, and n...
-Name: body, Length: 3782, dtype: object","0       2020-05-03 15:42:53
-1       2020-05-03 15:53:40
-2       2020-05-03 19:18:38
-3       2020-05-03 19:42:12
-4       2020-05-24 14:46:55
-               ...         
-3777    2013-01-10 21:06:10
-3778    2013-01-10 13:38:00
-3779    2013-01-10 21:30:58
-3780    2013-01-10 22:21:28
-3781    2013-01-10 22:39:56
-Name: timestamp, Length: 3782, dtype: object"
+,body
+0,it will most probably be discovered they discriminate against asians in admittances by giving them a higher required sat and gpa than non-asians like with harvard.
+1,"a few ways, off the top of my head:
+
+1) systemic racism that affects students' academic lives before they get to university- some students will have caregiving responsibilities or things affecting their lives that muddle our ability to accurately measure their academic potential. a brilliant student who spends all of their free time caring for sick relatives will test a lot different from one who has dedicated tutors hired to help them do well on tests. these factors affect students way before they get to princeton
+
+2) systems that exist at princeton that the university or even explicit perpetrators aren't aware of. harvard's project implicit is one of the biggest ongoing psychology experiments in the world, and they've pretty consistently shown that most people have unconscious biases that lead them to prejudicing against certain groups. making yourself aware of those biases is a good thing, because it helps you consciously overcome them- we should focus on growing out of these biases rather than condemning that they previously existed, since they're common societally
+
+3) a lot of these systems come down to social dynamics or hierarchies of power that the university doesn't explicitly control. students who feel like their opinions won't be taken seriously in class will be marginalized or pressured into not behaving like other students, even if the university doesn't actively tell them that their opinions aren't valid. this is why representation is so important to people- it gives people from historically marginalized groups a reason to believe that when they voice their opinions in an academic setting, people will actually pay attention. but the creation and maintenance of the environment that marginalized those people didn't require any actual actions by the university- it's much more environmental than that. in fact, these environments often persist in spite of organizations explicitly arguing that they support the voices of marginalized peoples- if somebody exists in a wider society that doesn't take your opinion seriously, i understand why that person would continue feeling that way when they move to a slightly different environment that's still a part of the society.
+
+4) i think the definition of ""racist"" gets lost a lot here, mostly since that word is very charged. racism isn't just overtly discriminatory acts, but also (as i alluded to above) systems that perpetuate discrimination in society. identifying that parts of society perpetuate this racism isn't an indictment- it's necessary self-awareness that can direct us towards actually rectifying that discrimination. systemic racism isn't always a set of overt actions that people do because they hate minorities or like oppressing people, so our response to it shouldn't be to condemn newfound self-awareness. acknowledgement of racist structures is not racist, and since many of those structures were unconscious or part of wider societies, we should focus on how we can fix those structures and not on placing blame for them.
+
+with the big caveat, of course, that overt racism does still exist. if the university openly knows that a practice is discriminatory and engages in it anyways with the intent of marginalizing certain groups of people, we shouldn't assume good faith. but as i understand it, nobody has accused princeton of this sort of overt discrimination, so much as princeton has acknowledged that the university exists within a society that has systemic discrimination in it.
+
+hope that makes sense."
+2,"> your example of systemic racism that doesn't include racial discrimination still requires racial discrimination for it to function.
+
+no, it required _past_ racial discrimination. it requires zero racist intent today - the racist effect will persist nonetheless unless an effort is made to rectify it.
+
+> princeton isn't saying that there still exists an undercurrent of racism that permeates all of society, they are saying that the their systems - the systems which princeton is responsible for and that are fully within their power to change - are racist.
+
+this is not the message i got from the letter at all, and i am in fact quite surprised that anyone could read the letter in this way.
+
+> no school that actively engages in systemic racism should be granted federal funding.
+
+""systemic racism"" is not equivalent to ""explicitly codified racial prejudice"". it is typically used to refer to the racist outcomes that arise from systems or institutions that were designed without explicitly racist intent. see, for example, the section on institutional racism in https://projects.iq.harvard.edu/files/deib-explorer/files/sociology_of_racism.pdf .
+
+the claim that these systems are unique to princeton, or even especially rare among us universities, would be laughable. working on addressing these problems is impossible without naming them. so - what end does this doe action serve?"
+3,"""harvard fails princeton exam"" on espn"
+4,"tiiiiiiiiiiiiiiiiiiiiiiiigggggggggggeeeeeeeeeeeeerrrrrrrrrrrrrssssssss!!!!!
+
+now if we go undefeated for the rest of the season, we have a slight chance of catching harvard for the title."
+5,"unlike other schools that only focus on their graduate students (harvard cough cough), princeton has a purely undergraduate focus.  the school is even designed that the grad college is a mile away from campus, so that undergrads would stay the focus of the school.  outside of having lots and lots of work, i can't think of one bad experience i've had here in 2 and 3/4 years.  the people are amazing and always fun to talk to, there's always a niche you can fit into (i deck out in body paint for football games, then go back to my friend's dorm for a weekly n64 tournament), and everyone is so nice.  i may be biased coming from ny, but i have not been around a nicer community of people.  
+
+congratulations, and don't be afraid to ask any more questions!"
+6,"📅 2018-04-28 ⏰ 15:27:43 [(utc)](https://www.timeanddate.com/worldclock/converter.html?iso=20180428t152743&p1=1440)
+
+>pton wins a thriller over yale and harvard.  yale led out of the turn and pton got ahead with 10 strokes to go.  pton wins goldthwait and vogel cups!!!
+
+>— princeton lights ([@tigerlights](https://twitter.com/tigerlights))
+
+>🔁️ 7 💟 36
+
+
+
+ &nbsp; 
+
+^(i'm a bot and this action was done automatically)"
+7,"^the linked tweet was tweeted by [@tigerlights](https://twitter.com/tigerlights) on apr 28, 2018 15:27:43 utc (7 retweets | 36 favorites)
+
+-------------------------------------------------
+
+pton wins a thriller over yale and harvard.  yale led out of the turn and pton got ahead with 10 strokes to go.  pton wins goldthwait and vogel cups!!!
+
+-------------------------------------------------
+
+^^• beep boop i'm a bot • find out more about me at /r/tweettranscriberbot/ •"
+8,"as quoted in the orange key guide for guides: ""some princetonians like to say this put princeton a quarter-million miles ahead of harvard
+and yale!"""
+9,any news? harvard just went online for the year.
+10,i'm thinking of molecular bio and i'm still applying to harvard and stanford. 
+11,is that a harvard vs. yale table i see in the back there?
+12,"a black student (especially male) with your academic credentials will probably get in wherever you want. have fun at princeton, harvard, yale, or stanford...."
+13,">princeton being princeton, i'm a little concerned about how master's students are treated as opposed phd students when it comes to academic mentorship and opportunities. i've also heard horror stories (not necessarily from princeton, but from similar big-name cs schools) of phd advisors 
+
+*20 phd here. i wasn’t in cs but had friends who were (both phd and masters students). no need to worry about how masters students are treated compared to phd students. there isn’t a pecking order like you’re describing. that’s just your imposter syndrome whispering doubt in your head. we all have it. try to tell it to shut the fuck up. 
+
+as for advisor horror stories, that kind of relationship is going to be hit and miss anywhere you go. do your due diligence when you’re applying to grad school. if you’re invited on campus visits, ask the grad students you meet to lay the cards plainly on the table about the pros and cons of the program, the faculty, and the social life. grad school is hard. it’s not going to be all sunshine and rainbows anywhere you go. it’s better to be armed with realistic expectations than a false sense of security. 
+
+as for why princeton — again, i wasn’t in cs, so i can’t speak to the minutiae of department culture. that being said, i do know that princeton stands apart from peer institutions (e.g. harvard and stanford) in cs that it pays its masters students. **this is huge.** there is so much to be said for the impact financial security (or lack thereof) has on our mental health. princeton pays its students very well, and as a masters student you’re basically guaranteed to live in campus housing (below market value) while you’re there. i pinched pennies, but i was actually able to save money while in grad school. if you find yourself in a situation where you’re choosing between multiple programs, unless you’re independently wealthy, **whether or not you get paid should be a major deciding factor.**
+ 
+cons about princeton: it’s a sleepy town. the orange bubble is real and can be a real drag at times. as a grad student you’ll always feel second chair to the undergrads. we all know princeton is primarily and undergraduate institution coming in, but i don’t think it really hit how comparatively under-supported grad students are treated by the administration. at the end of the day, though, it’s still princeton. our lot as grad students is still much better than at other schools (which the faculty/admins so persistently remind us whenever we gripe). 
+
+good luck, op."
+14,">that being said, i do know that princeton stands apart from peer institutions (e.g. harvard and stanford) in cs that it pays its masters students.
+
+columbia alum here
+
+that's incredible. a huge source of insecurity for some ms students is the notion that they're ""cash-cows"". this totally negates that!
+
+op, take this super into consideration! wow!"
+15,the campus. for example brown's and harvard's measly colonial american depressing buildings. 
+16,"> it will probably be just as hard at any other similarly well-known/""prestigious"" university
+
+interesting -- i know math is usually considered to be a challenging major, but i feel like i've read more about its difficulty at princeton compared to its peer schools (e.g harvard and stanford). i saw that mat 215 (which is the lesser difficult of princeton's recommended intro courses for majors) uses rudin's pma. is this relatively common among similarly prestigious universities?"
+17,"most schools (mit, harvard) use baby rudin too.
+
+that being said, i disagree with the previous comment. i'm pretty sure that the princeton math program is harder compared to its peer schools. the analysis courses are graduate level, and i don't think that any ivy league school covers grad level functional analysis in a first semester junior class."
+18,"harvard's math 55 is harder than our 216/218 sequence i think (and covers abstract algebra as well).
+
+i don't think 335/425 are graduate level, though they usually do cover more (e.g. for 335, usually around 9.5 chapters of stein are covered, whereas most top-20 schools aside from harvard/mit only cover 3-6). functional analysis is taught in 520, though it is brushed upon in 425."
+19,">most schools (mit, harvard) use baby rudin too.
+
+true, although i don't think 18.1 is a first-year course for most mit math majors (could definitely be wrong) and harvard's math 25 (which seems analogous to 215) uses spivak, though math 55 uses rudin."
+20,"princeton has grade deflation designed to combat this. it is definitely possible to get cs or ds in courses, especially in the sciences. effort doesn't guarantee a b, and you really do need to excel to get an a.
+
+you should probably take your chart over to /r/harvard "
+21,"actually, the grade inflation seen at princeton is roughly in line with the grade inflation depicted in that chart; for example, the average gpa at princeton is in the 3.25-3.3 range, as is the average gpa at all private schools.  of course, harvard has even more rampant grade inflation.  in any case, the overall trend of grade inflation is irrelevant when discussing the grades for a particular course."
+22,"engineering-does not really exist...cs is really bad, albeit improving. i don't think they have a quant finance program...
+
+econ business school- high key joke. very small. good finance research but definitely not better than princeton, chicago, harvard, stanford, berkeley. i.e their accounting ""department"" btw is also very small and virtually non-existent. at this point, why have a b-school.
+
+med school- okay... i guess
+
+law school-really good"
+23,this is the third year outright number one. 4 years ago princeton tied with harvard. 
+24,"fourth session of my tattoo yielded a finished orange lily! :)  
+    
+  edit: for those who are unaware, lyrics from the princeton song ""the orange and the black"" are:
+  
+*although yale has always favored  
+the violet's dark blue,  
+and the many sons of harvard   
+to the crimson rose are true,  
+we will own the lilies slender,  
+nor honor shall they lack,  
+while the tiger stands defender  
+of the orange and the black*"
+25,"love new jersey?  that's a first.
+
+congrats on all those schools, but what sealed the deal for me was princeton reuinions.  every single year alumni from every class come back for a week of partying and catching up with former classmates.  while other schools have parties for the 5 year and 10 year reunions, princeton has for every single year!  1, 2, 3, 4, 5, 6, etc...  princeton also has the largest alumni network/donations campaign.  all this showed me, ""people really like it here that they never want to leave.""  i've talked with alumni and they all say the same thing, princeton was awesome and everyone looks forward to reunions to meet up with old friends again.  just mentioning this in case you want to read up on it.
+
+did i mention princeton is the #1 undergraduate school in the country.  harvard may have the number slot according to world news and report, but they don't have an undergrad focus.  i doubt anyone there sees a professor.  princeton has a 5:1 undergrad:graduate student ratio, and all of my classes are taught by professors.  therefore princeton > harvard and princeton is number 1.  sorry, i've been meaning to put this down to paper for a while.
+
+see you at preview!  rawr."
+26,harvard and yale mainly (big three)
+27,"there are a lot of reasons, but one aspect about princeton that stuck out to me is the extremely strong focus on undergraduate studies. most the community here is focused on undergraduate work, all undergrad classes are taught by princeton professors, and all professors are required to teach at least one undergraduate class. communities like harvard and yale are largely focused on graduate studies and undergraduate study can sometimes be an afterthought, but here it is the academic focus. "
+28,"a word of advice, for what it’s worth: don’t use transfer admissions as a way to make up for having been rejected as a first-year. the odds are already weighted heavily against people in your situation, because princeton (as well as harvard and yale) are looking for a very specific profile in their transfer classes. applying to transfer now, thinking that you can make up for a rejection from during high school, is setting yourself up for further embitterment."
+29,"how bad is the grading, exactly? would harvard students just have an easier time because of their grade inflation?"
+30,"i've never taken a class at harvard so i can't give you much, but it is a fact that the average gpa at harvard is quite a bit higher than that at princeton and it seems pretty unlikely for the average intelligence of either student population to be anything substantially different. "
+31,"princeton's financial aid is quite literally the best (or top 5, at least) in the nation. if you get in, you will receive a hefty grant - no necessary act, gpa, sat, whatever. this is true for princeton, harvard, yale, stanford, and most of the other ivy+ schools - aid is need-based, not merit. top schools don't want good students to be deprived of a good education because they can't pay. if you get in, you will be able to afford it. but getting admitted is the hard part."
+32,the pretty buildings are even what made supreme court justice sotomayor choose princeton over harvard or yale.  who wouldn't want a picture of blair arch?
+33,"gs in the molbio department here. 
+i would usually have a lot to say but i truly think your interview will be the best source for answers. i will say this: i interviewed at harvard's mcb (but am familiar with their larger program) and at stanford. princeton is a smaller place with a larger focus on basic research than most other programs. 
+
+either way, enjoy interview season! it will probably be the best time of your life for 5-7 years."
+34,"i guess the idea of a bubble makes sense given princeton's location.
+
+just a quick general follow up question:
+
+do you think there are significant cultural differences between harvard, yale and princeton or do you think the communities are pretty identical in terms of vibe/feel?"
+35,"significant, no. but differences for sure. for one, harvard sucks and yale is dirty.
+
+h is a much larger institution, where p has a definite focus on undergrad. p is essentially the reason for its namesake small town, where as h is integrated into cambridge (and a lesser extent boston). new haven isn't explicitly a college town, but it kinda is.
+
+other aspects: i believe p has a greater sports participation (varsity and club levels) than the other schools, h a greater lean towards grad/academic research (duh, given the sheer quantity of colleges). i know less about y in that regard. please don't interpret this as ""y doesn't do sports or p doesn't do research,"" these all exist at each institution and you're definitely able to seek out whatever you desire (and if it doesn't exist there's room and support to create). those are just some differences you can point out if seeking separation.
+
+i am totally biased, but it really is the best damn place of all."
+36,"campus is totally walkable for undergrads. a bit further if you live in forbes, but still totally reasonable compared to a lot of state schools (or the radcliffe campus at harvard). i would say the buses are mostly used by post docs and graduate students who live in housing on the very fringes of campus. there are plans to extend the campus beyond lake carnegie within the next ten years. maybe then a bus ride will be warranted for undergrads. you can also always bike. "
+37,"i suggest you raise the stakes for yourself, aim to have an application that would get you into harvard or stanford, which is harder, then some more.
+
+i personally also told myself that if i didn't go to an ivy league school, i'd commit suicide. it doesn't have to be the same for you but i ended up getting into harvard, mit, princeton and brown but rejected from every other ivy league school and 5 other amazing schools. 
+
+so i would suggest doing something like that."
+38,"the rules must have changed since i was there because our department had 2 transfers, one from harvard and one from stanford. both were rather exceptional, so perhaps it's only reserved for extraordinary applicants."
+39,"i know what i know, and princeton does well in dealing with extraordinary circumstance. the harvard guy quadruple majored in a variety of engineering programs.
+
+but hey, we're both only anonymous internet words. caveat emptor."
+40,that's entirely different since he was a princeton undergraduate to begin with. they're extremely strict about the policy and don't recruit athletes that began their career elsewhere first (which harvard does). 
+41,"not only does harvard not allow ""quadruple majors"", but how would they be a transfer student in that case... "
+42,"he transferred to princeton after a year at harvard. and again: these schools are flexible to extraordinary circumstance, of course it isn't advertised. his rationale to the registrar for allowing a schedule with overlapping class times: ""i'm not going to go to class anyway, so just let me take what i want to take.""
+
+so they did, and he didn't. got 'a's anyway.
+
+since it seems people are only looking to downvote me, i'll stop here. you try to be helpful, and look what happens: ignorant assholes on the internet, even in remote communities.
+
+*edit* had ""to"" typed twice."
+43,"1. gpa is really only 1 element to getting in so, yes you can definitely still get in, especially if they see consistency and improvement.  a great gpa can't guarantee that you'll get in nor can a bad gpa (relatively speaking, obviously a 3.0 weighted probably would not get you accepted) guarantee your rejection.
+
+2. i only did ap chem and ap physics 1 (algebra based) in high school and have done well in the calculus-based physics courses here so far, so that definitely should not be a problem
+
+3. i don't really know what to say about extracurriculars other than that admissions officers usually look for a ""spike"" meaning that you have one or very few impressive and concentrated activities in areas related to your field of study or passion.  but i assume chess titles would help.
+
+to get into schools like princeton and harvard, like /u/engineer1822  said just really need to be great outside of the classroom.  try to focus on activities targeted towards a certain field, and try not to do a bunch of smaller activities. but in the end, just do what interests you. i scored an internship at an engineering firm going into my senior year, and i definitely think that helped me get in.  "
+44,"princeton is surrounded by twenty square miles of farmland in the middle of new jersey where there is essential no crime.  i've gotten an email from public safety every time any type of crime is reported on campus.  every couple of years, some freshman on the ground floor leaves their window open and loses their computer/finds someone in their room.  other than that, there is pretty much nothing.
+
+this is a typical semester's worth of emails:
+
+1)  a teen ran by a woman on nassau street and slapped her buttocks.  
+
+2)  this is a test
+
+3)  a teen ran by a woman on nassau street and slapped her buttocks.
+
+4)  a teen ran by a woman on nassau street and stole her phone.
+
+5)  this is a test
+
+meanwhile, at yale;
+
+a dismembered body was found near campus.
+
+a shooting occurred near campus.
+
+a stabbing occurred near campus.
+
+meanwhile at harvard;
+
+someone pooped in the dryer.
+
+someone pooped in the dryer.
+
+someone was robbed near campus."
+45,"extremely safe. 
+
+like a previous post stated, other ivy league schools are really only safe while on campus. yale has stabbings, harvard has the poop bandit, upenn in philly has robbery/shooting nearby, cornell has the cliff divers/suicides after first exams;
+
+having lived in princeton and attended the university, there is no safer campus. "
+46,"other than the history of the basketball rivalry, nope. always considered yale & harvard to be more of the rivals, overall. even though, let's be honest, they pretty much only pay attention to one another..."
+47,"i think most of us see you as a rival as the two southernmost ivies, but some d-bags here try to act like harvard and yale are our rivals."
+48,"athletic rival. academically we're up there with harvard and yale, but athletically, it's penn and princeton with a rivalry"
+49,"deflation policy was abolished, but the other answer is completely wrong. deflation has a strong legacy on campus: many to most departments curve only a bit better than deflation-era policy, and students are very aware of it. maybe there are a few exceptions: the econ department, for instance, curves very aggressively. however, many intro-level classes (physics, math) still curve to a b or b+. this is part of what makes princeton very hard, even compared to other ivies. however, if you look at the trend, you will see that average gpa has been rising over the years: even though most departments still curve similarly to deflation-era, there is definitely an upward trend in gpas as departments slowly start to inflate grades again.
+
+personally, i am actually not that upset about any of this. it's something people groan about a bit, but, as i said, i view it largely as self-repairing over time. some classes should be curved to a b or b+ (some very large intro classes), but now classes which should curve above that do: most professors have a pretty good idea of what should happen and set their classes to that point.
+
+this is a serious consideration when deciding to attend princeton: do you want it to be hard to get as? if so, this is a great place. if you will be upset if you get below an a-, then yale and harvard will be a better fit."
