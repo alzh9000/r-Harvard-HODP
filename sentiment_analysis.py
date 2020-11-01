@@ -53,6 +53,7 @@ theme_hodp = go.layout.Template(
                'showticksuffix': 'all',
                'showtickprefix': 'last',
                'showline': True,
+               'linewidth': 5,
                'title': {'font': {'size': 18, 'family': 'Helvetica'}, 'standoff': 20},
                'automargin': True
                },
@@ -62,6 +63,7 @@ theme_hodp = go.layout.Template(
                'showtickprefix': 'last',
                'title': {'font': {'size': 18, 'family': 'Helvetica'}, 'standoff': 20},
                'showline': True,
+               'linewidth': 5,
                'automargin': True
                },
         legend={'bgcolor': 'rgba(0,0,0,0)',
@@ -77,20 +79,19 @@ theme_hodp = go.layout.Template(
     )
 )
 
-fig = px.scatter(x=polarities, y=subjectivities)
-fig.show()
+# fig = px.scatter(x=polarities, y=subjectivities)
+# fig.show()
 
 
-# fig = go.Figure()
+fig = go.Figure()
 
 
-# fig.add_trace(go.Scatter(
-#     x=dem_df['year'],
-#     y=dem_df['candidatevotes'],
-#     name='democrat',
-#     mode='lines+markers',
-#     marker_color=primary_colors[2],
-# ))
+fig.add_trace(go.Scatter(
+    x=subjectivities,
+    y=polarities,
+    mode='markers',
+    marker_color=primary_colors[2],
+))
 # fig.add_trace(go.Scatter(
 #     x=rep_df['year'],
 #     y=rep_df['candidatevotes'],
@@ -107,10 +108,12 @@ fig.show()
 # ))
 
 
-# fig.update_layout(title="Total Votes",
-#                   xaxis={'title': {'text': 'Year'}},
-#                   yaxis={'title': {'text': 'Total Votes'}},
-#                   legend={'title': {'text': 'Political Party'}},
-#                   template=theme_hodp)
+fig.update_layout(title="Sentiment Analysis",
+                  xaxis={
+                      'title': {'text': 'Subjectivity (0 is objective, 1 is subjective)'}},
+                  yaxis={
+                      'title': {'text': 'Polarity (Negative vs. Neutral vs. Positive'}},
+                  #   legend={'title': {'text': 'Political Party'}},
+                  template=theme_hodp)
 
-# fig.show()
+fig.show()
