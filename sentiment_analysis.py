@@ -12,6 +12,8 @@ import plotly.io as pio
 from plotly.subplots import make_subplots
 nltk.download('punkt')
 
+college = "princeton"
+
 
 def resource_path(relative_path):
     try:
@@ -23,19 +25,20 @@ def resource_path(relative_path):
 
 polarities = []
 subjectivities = []
-with open(resource_path("test_text.csv"), 'r') as csvfile:
+with open(resource_path(college + "_comments_final.csv"), 'r', encoding="utf8") as csvfile:
     rows = csv.reader(csvfile)
     for row in rows:
         try:
-            sentence = row[0]
+            sentence = row[1]
             blob = TextBlob(sentence)
             polarities.append(blob.sentiment.polarity)
             subjectivities.append(blob.sentiment.subjectivity)
-            print(blob.word_counts)
-            print(sentence)
-            print(blob.sentiment.polarity, blob.sentiment.subjectivity)
+            # print(blob.word_counts)
+            # print(sentence)
+            # print(blob.sentiment.polarity, blob.sentiment.subjectivity)
         except:
-            print("This line is blank.")
+            # print("This line is blank.")
+            pass
 
 
 # colors
@@ -90,15 +93,23 @@ fig.add_trace(go.Scatter(
     x=subjectivities,
     y=polarities,
     mode='markers',
-    marker_color=primary_colors[2],
+    marker=dict(
+        color='Orange',
+        size=15,
+        line=dict(
+            color='Black',
+            width=2
+        )
+    )
+    # marker_color=primary_colors[2],
 ))
 
 
-fig.update_layout(title="Sentiment Analysis",
+fig.update_layout(title=college.upper() + " Sentiment Analysis",
                   xaxis={
                       'title': {'text': 'Subjectivity (0 is objective, 1 is subjective)'}},
                   yaxis={
-                      'title': {'text': 'Polarity (Negative vs. Neutral vs. Positive'}},
+                      'title': {'text': 'Polarity (-1 is Negative, 0 is Neutral, 1 is Positive)'}},
                   #   legend={'title': {'text': 'Political Party'}},
                   template=theme_hodp)
 
