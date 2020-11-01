@@ -1,7 +1,9 @@
-import csv
-from textblob import TextBlob
-import os
 import sys
+import os
+from textblob import TextBlob
+import csv
+import nltk
+nltk.download('punkt')
 
 
 def resource_path(relative_path):
@@ -15,7 +17,11 @@ def resource_path(relative_path):
 with open(resource_path("test_text.csv"), 'r') as csvfile:
     rows = csv.reader(csvfile)
     for row in rows:
-        sentence = row[0]
-        blob = TextBlob(sentence)
-        print(sentence)
-        print(blob.sentiment.polarity, blob.sentiment.subjectivity)
+        try:
+            sentence = row[0]
+            blob = TextBlob(sentence)
+            print(blob.word_counts)
+            print(sentence)
+            print(blob.sentiment.polarity, blob.sentiment.subjectivity)
+        except:
+            print("This line is blank.")
