@@ -1,7 +1,7 @@
 import pandas as pd
 
 school_names = ["yale", "princeton", "columbia",
-                "cornell", "dartmouth", "upenn", "brownu"]
+                "cornell", "dartmouth", "upenn", "brownu", "harvard"]
 file_types = ["comments", "posts"]
 
 for school_name in school_names:
